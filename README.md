@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Openweathermap API
+## OpenWeatherMap API
 In the project I used the openweathermap API to fetch JSON data about the city, country, temperature, humidity, and any conditions. 
 
 ## Available Scripts
